@@ -1,3 +1,6 @@
+![Header](https://github.com/baddmitry/dmitrystrekalov/blob/main/assets/gif.gif)
+
+
 # Привет, меня зовут Дмитрий!
 
 ---
