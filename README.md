@@ -20,7 +20,8 @@
 
 ---
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@strekalov-dmitrii-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/strekalov-dmitrii/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:strekalov.d@gmail.com)
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/strekalov-dmitrii/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:strekalov.d@gmail.com)
 
 ### 🤝 Социальные сети:
 
